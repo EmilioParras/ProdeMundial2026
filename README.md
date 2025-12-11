@@ -4,4 +4,3 @@ Tecnologias utilizadas y aprendidas en el proceso:
   -Frontend: HTML, CSS y React
   -Backend: Node.js con Express
   -Base de datos: MySql
-  
